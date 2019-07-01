@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28809.33
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VetoresStruct", "Vetores\VetoresStruct.csproj", "{77C27575-0564-4D74-9B2D-B8075EC4EED0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VetoresClasse", "VetoresClasse\VetoresClasse.csproj", "{B038D5E3-766D-4CC6-BF6A-E5F78F519C2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77C27575-0564-4D74-9B2D-B8075EC4EED0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77C27575-0564-4D74-9B2D-B8075EC4EED0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77C27575-0564-4D74-9B2D-B8075EC4EED0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77C27575-0564-4D74-9B2D-B8075EC4EED0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B038D5E3-766D-4CC6-BF6A-E5F78F519C2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B038D5E3-766D-4CC6-BF6A-E5F78F519C2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B038D5E3-766D-4CC6-BF6A-E5F78F519C2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B038D5E3-766D-4CC6-BF6A-E5F78F519C2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99509AC5-62BD-480B-98F9-E263EEE6431A}
+	EndGlobalSection
+EndGlobal
